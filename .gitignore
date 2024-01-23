@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+**/node_modules/
+
+# Flask
+instance/
+.pycache/
+.pytest_cache/
+.env
+.pytest_cache/
+coverage/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Flask SQLAlchemy
+.migrations/
